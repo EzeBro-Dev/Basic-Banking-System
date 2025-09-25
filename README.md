@@ -28,33 +28,34 @@ The project simulates basic banking operations like:
 ---
 
 ## 🧑‍💻 User Flow
-1. Launch the App
+  1. Launch the App
 
-The main window opens with 3 buttons:
+  The main window opens with 3 buttons:
 
-- Deposit
+  - Deposit
 
-- Withdraw
+  - Withdraw
 
-- Check Balance
-
-2. Deposit
-
-Click Deposit → Enter an amount → Balance increases.
-
-3. Withdraw
-
-Click Withdraw → Enter an amount →
-
-- If enough balance: money deducted.
-
-- If insufficient balance: error shown.
-
-4. Check Balance
-
-Click Check Balance → Current balance displayed.
-
-5. Exit
-
-Close the window when done.
+  - Check Balance
+  
+  2. Deposit
+  
+  Click Deposit → Enter an amount → Balance increases.
+  
+  3. Withdraw
+  
+  Click Withdraw → Enter an amount →
+  
+  - If enough balance: money deducted.
+  
+  - If insufficient balance: error shown.
+  
+  4. Check Balance
+  
+  Click Check Balance → Current balance displayed.
+  
+  5. Exit
+  
+  Close the window when done.
+  
 
